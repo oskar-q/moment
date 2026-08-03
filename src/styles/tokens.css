@@ -1,0 +1,17 @@
+:root {
+  --bg: #e4dcd0;
+  --bg-elevated: #ebe4d9;
+  --ink: #1c1915;
+  --ink-soft: #6a6358;
+  --ink-faint: #9a9286;
+  --line: rgba(28, 25, 21, 0.88);
+  --line-soft: rgba(28, 25, 21, 0.16);
+  --danger: #5c2a2a;
+
+  --serif: "Cormorant Garamond", "Times New Roman", serif;
+  --mono: "IBM Plex Mono", "SF Mono", ui-monospace, monospace;
+
+  --pad: clamp(1.5rem, 3.5vw, 2.75rem);
+  --max: 860px;
+  --wide: 1040px;
+}
